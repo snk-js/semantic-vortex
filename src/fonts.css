@@ -1,0 +1,8 @@
+/* fonts.css */
+
+@font-face {
+  font-family: 'Mynerve';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''), url('/fonts/Mynerve-Regular.ttf') format('truetype'),
+}
